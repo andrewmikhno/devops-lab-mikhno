@@ -1,7 +1,7 @@
 # Отчет по курсовой работе студента группы U4225 Михно Андрея
 Студент: Mikhno Andrei  
 Lab: Coursework  
-Date of create: 21.09.2026  
+Date of create: 16.09.2026  
 Date of finished: -
 
 ## Цель работы
